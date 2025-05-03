@@ -11,7 +11,7 @@ WEBINARJAM_API_KEY = os.getenv("WEBINARJAM_API_KEY")
 WEBINAR_ID = os.getenv("WEBINARJAM_WEBINAR_ID")
 WEBINAR_SCHEDULE_ID = os.getenv("WEBINARJAM_WEBINAR_SCHEDULE_ID")
 registrants_url = "https://api.webinarjam.com/webinarjam/registrants"
-ghl_webhook_url = "https://services.leadconnectorhq.com/hooks/kFKnF888dp7eKChjLxb9/webhook-trigger/a4e50be3-8f35-4bcd-9001-255a1dadd8ab"
+ghl_webhook_url = "https://services.leadconnectorhq.com/hooks/kFKnF888dp7eKChjLxb9/webhook-trigger/VCs8Z5BuTAef953g81Pl"
 
 # Check if all environment variables are set
 if not all([WEBINARJAM_API_KEY, WEBINAR_ID, WEBINAR_SCHEDULE_ID]):
@@ -80,7 +80,7 @@ def determine_tag(registrant):
         hours, minutes, seconds = map(int, time_live.split(":"))
         total_seconds = hours * 3600 + minutes * 60 + seconds
 
-        if total_seconds >= 3600:  # 1 hour in seconds
+        if total_seconds >= 5400:  # 1h 30min in seconds
             return "high engagement"
         else:
             return "low engagement"
