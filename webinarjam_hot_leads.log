@@ -1,0 +1,32 @@
+2025-05-29 21:54:55,357 - INFO - post-webby-script-1.py:26 - Script started (Hot Leads Processor). Attempting to load environment variables...
+2025-05-29 21:54:55,358 - INFO - post-webby-script-1.py:29 - Successfully loaded environment variables from .env file.
+2025-05-29 21:54:55,358 - INFO - post-webby-script-1.py:43 - Checking for required environment variables...
+2025-05-29 21:54:55,358 - INFO - post-webby-script-1.py:55 - All required environment variables are present.
+2025-05-29 21:54:55,358 - INFO - post-webby-script-1.py:185 - --- High Engagement & Hot Leads Processor Script Started ---
+2025-05-29 21:54:55,358 - INFO - post-webby-script-1.py:116 - Starting processing for HIGH ENGAGEMENT & HOT LEADS: Webinar '24', Schedule '29'.
+2025-05-29 21:54:55,359 - DEBUG - post-webby-script-1.py:130 - Fetching attended registrants (Page 1): {'api_key': '9ea21055-71bb-482e-8ca7-134028a85284', 'webinar_id': '24', 'schedule': '29', 'date_range': 0, 'attended_live': 1, 'page': 1}
+2025-05-29 21:54:56,321 - INFO - post-webby-script-1.py:158 - MATCH: selin.karagoez@icloud.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:54:57,254 - INFO - post-webby-script-1.py:107 - Successfully sent selin.karagoez@icloud.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:54:59,255 - INFO - post-webby-script-1.py:158 - MATCH: therese.kall01@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:00,653 - INFO - post-webby-script-1.py:107 - Successfully sent therese.kall01@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:02,654 - INFO - post-webby-script-1.py:158 - MATCH: maddeinsweden@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:03,702 - INFO - post-webby-script-1.py:107 - Successfully sent maddeinsweden@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:05,703 - INFO - post-webby-script-1.py:158 - MATCH: ecobiz@telia.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:07,473 - INFO - post-webby-script-1.py:107 - Successfully sent ecobiz@telia.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:09,474 - INFO - post-webby-script-1.py:158 - MATCH: matanita@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:10,404 - INFO - post-webby-script-1.py:107 - Successfully sent matanita@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:12,405 - INFO - post-webby-script-1.py:158 - MATCH: christofer.suck@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:14,959 - INFO - post-webby-script-1.py:107 - Successfully sent christofer.suck@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:16,960 - INFO - post-webby-script-1.py:158 - MATCH: info@johandahl.se is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:17,517 - INFO - post-webby-script-1.py:107 - Successfully sent info@johandahl.se to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:19,518 - INFO - post-webby-script-1.py:158 - MATCH: charlotta.woodward@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:20,499 - INFO - post-webby-script-1.py:107 - Successfully sent charlotta.woodward@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:22,500 - INFO - post-webby-script-1.py:158 - MATCH: sahlstrom.consulting@gmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:23,339 - INFO - post-webby-script-1.py:107 - Successfully sent sahlstrom.consulting@gmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:25,340 - INFO - post-webby-script-1.py:158 - MATCH: birgitta_bowman@yahoo.co.uk is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:26,041 - INFO - post-webby-script-1.py:107 - Successfully sent birgitta_bowman@yahoo.co.uk to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:28,042 - INFO - post-webby-script-1.py:158 - MATCH: tobefree33@hotmail.com is High Engagement AND Hot Lead. Sending to GHL.
+2025-05-29 21:55:28,895 - INFO - post-webby-script-1.py:107 - Successfully sent tobefree33@hotmail.com to GHL. Tag: 'high engagement', Hot Lead: 1.
+2025-05-29 21:55:30,896 - INFO - post-webby-script-1.py:166 - End of attended list. Current API page: 1, Total: 0.
+2025-05-29 21:55:30,897 - INFO - post-webby-script-1.py:181 - High Engagement & Hot Leads processing finished. API Fetched: 25, Sent to GHL: 11.
+2025-05-29 21:55:30,897 - INFO - post-webby-script-1.py:187 - --- High Engagement & Hot Leads Processor Script Finished ---

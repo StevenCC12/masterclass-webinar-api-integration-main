@@ -1,0 +1,62 @@
+2025-05-30 15:00:09,289 - INFO - webinarjam_retrieve_attendees.py:32 - Script started. Attempting to load environment variables...
+2025-05-30 15:00:09,292 - INFO - webinarjam_retrieve_attendees.py:37 - Successfully loaded environment variables from .env file.
+2025-05-30 15:00:09,292 - INFO - webinarjam_retrieve_attendees.py:55 - Checking for required environment variables...
+2025-05-30 15:00:09,292 - INFO - webinarjam_retrieve_attendees.py:67 - All required environment variables are present.
+2025-05-30 15:00:09,292 - INFO - webinarjam_retrieve_attendees.py:263 - Script execution started via __main__.
+2025-05-30 15:00:09,292 - INFO - webinarjam_retrieve_attendees.py:156 - Processing all registrants for webinar_id '24' and schedule_id '29'.
+2025-05-30 15:00:09,292 - DEBUG - webinarjam_retrieve_attendees.py:176 - Fetching registrants: Page 1, Payload: {'api_key': '9ea21055-71bb-482e-8ca7-134028a85284', 'webinar_id': '24', 'schedule': '29', 'date_range': 0, 'page': 1}
+2025-05-30 15:00:10,439 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: elisabeth.daljemar@hotmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:00:11,455 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant elisabeth.daljemar@hotmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:13,456 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: contact@andreasholm.com, Attended: No, Time: 00:00:00
+2025-05-30 15:00:14,534 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant contact@andreasholm.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:16,535 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: elina.maitinen@hotmail.se, Attended: Yes, Time: 01:30:00
+2025-05-30 15:00:19,422 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant elina.maitinen@hotmail.se to GHL. Tag: 'high engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:21,423 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: qoran.n@gmail.com, Attended: Yes, Time: 00:25:00
+2025-05-30 15:00:22,265 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant qoran.n@gmail.com to GHL. Tag: 'low engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:24,266 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: goran.energizes@gmail.com, Attended: Yes, Time: 01:20:00
+2025-05-30 15:00:25,276 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant goran.energizes@gmail.com to GHL. Tag: 'low engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:27,277 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: selin.karagoez@icloud.com, Attended: Yes, Time: 02:45:00
+2025-05-30 15:00:28,055 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant selin.karagoez@icloud.com to GHL. Tag: 'high engagement', Purchased: 0, Hot Lead: 1.
+2025-05-30 15:00:30,056 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: steven@cleanconversion.com, Attended: Yes, Time: 00:40:00
+2025-05-30 15:00:31,094 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant steven@cleanconversion.com to GHL. Tag: 'low engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:33,095 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: gustaf.modig@gmail.com, Attended: Yes, Time: 00:15:00
+2025-05-30 15:00:34,107 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant gustaf.modig@gmail.com to GHL. Tag: 'low engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:36,107 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: burefalk@gmail.com, Attended: Yes, Time: 01:50:00
+2025-05-30 15:00:36,893 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant burefalk@gmail.com to GHL. Tag: 'high engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:38,894 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: thomassvenssonsthlm@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:00:40,237 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant thomassvenssonsthlm@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:42,238 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: therese.kall01@gmail.com, Attended: Yes, Time: 02:45:00
+2025-05-30 15:00:43,057 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant therese.kall01@gmail.com to GHL. Tag: 'high engagement', Purchased: 0, Hot Lead: 1.
+2025-05-30 15:00:45,058 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: annelibilen@gmail.com, Attended: Yes, Time: 00:55:00
+2025-05-30 15:00:46,100 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant annelibilen@gmail.com to GHL. Tag: 'low engagement', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:48,101 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: gaga@gamore.se, Attended: No, Time: 00:00:00
+2025-05-30 15:00:53,106 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant gaga@gamore.se to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:55,107 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: stefanwhitefield@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:00:56,006 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant stefanwhitefield@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:00:58,007 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: marstone10@outlook.com, Attended: No, Time: 00:00:00
+2025-05-30 15:00:59,180 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant marstone10@outlook.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:01,181 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: terese@instorescreen.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:02,087 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant terese@instorescreen.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:04,088 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: leif.simonsson@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:05,071 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant leif.simonsson@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:07,072 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: sanna.bremmer@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:07,884 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant sanna.bremmer@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:09,885 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: lisa_martina@hotmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:11,059 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant lisa_martina@hotmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:13,060 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: maddeinsweden@gmail.com, Attended: Yes, Time: 02:45:00
+2025-05-30 15:01:14,134 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant maddeinsweden@gmail.com to GHL. Tag: 'high engagement', Purchased: 1, Hot Lead: 1.
+2025-05-30 15:01:16,134 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: elena.marsiglia@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:16,966 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant elena.marsiglia@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:18,967 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: lill_ler@hotmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:19,800 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant lill_ler@hotmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:21,801 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: feelygod@gmail.com, Attended: No, Time: 00:00:00
+2025-05-30 15:01:22,768 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant feelygod@gmail.com to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:24,769 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: support@exposweden.se, Attended: No, Time: 00:00:00
+2025-05-30 15:01:27,958 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant support@exposweden.se to GHL. Tag: 'no-show', Purchased: 0, Hot Lead: 0.
+2025-05-30 15:01:29,958 - DEBUG - webinarjam_retrieve_attendees.py:215 - Processing: ecobiz@telia.com, Attended: Yes, Time: 02:45:00
+2025-05-30 15:01:30,742 - INFO - webinarjam_retrieve_attendees.py:138 - Successfully sent registrant ecobiz@telia.com to GHL. Tag: 'high engagement', Purchased: 0, Hot Lead: 1.
+2025-05-30 15:01:32,742 - INFO - webinarjam_retrieve_attendees.py:226 - Reached end of registrant list. Current API page: 1, Total API pages: 0.
+2025-05-30 15:01:32,743 - INFO - webinarjam_retrieve_attendees.py:256 - Total registrants fetched from API: 25
+2025-05-30 15:01:32,743 - INFO - webinarjam_retrieve_attendees.py:257 - Total registrants for whom GHL send was attempted: 25
+2025-05-30 15:01:32,743 - INFO - webinarjam_retrieve_attendees.py:258 - Registrant processing finished.
+2025-05-30 15:01:32,743 - INFO - webinarjam_retrieve_attendees.py:275 - Script execution completed.
